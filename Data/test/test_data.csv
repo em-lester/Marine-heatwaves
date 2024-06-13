@@ -1,0 +1,28 @@
+heatwave event,species category,species detailed,impact,mechanism,persistance
+1998,habitat,coral,5,3,0
+1998,habitat,seagrass,NA,NA,NA
+1998,habitat,algae,NA,NA,NA
+1998,habitat,phytoplankton,NA,NA,NA
+1998,fisheries,Lutjanus malabaricus,1,0,0
+1998,fisheries,Lethrinus nebulosus,1,1,0
+1998,fisheries,western king prawn,2,0,0
+1998,non-target species,fishes,1,0,0
+1998,non-target species,invertebrates,1,0,0
+2010/2011,habitat,seagrass,10,6,3
+2010/2011,habitat,algae,15,10,5
+2010/2011,habitat,phytoplankton,2,0,0
+2010/2011,habitat,coral,6,3,3
+2010/2011,fisheries,Lutjanus malabaricus,3,1,1
+2010/2011,fisheries,Lethrinus nebulosus,3,1,1
+2010/2011,fisheries,western king prawn,3,1,1
+2010/2011,non-target species,fishes,3,1,1
+2010/2011,non-target species,invertebrates,5,2,0
+2016,habitat,seagrass,5,2,0
+2016,habitat,algae,5,0,0
+2016,habitat,coral,9,3,1
+2016,habitat,phytoplankton,0,0,0
+2016,fisheries,Lutjanus malabaricus,NA,NA,NA
+2016,fisheries,Lethrinus nebulosus,NA,NA,NA
+2016,fisheries,western king prawn,3,2,0
+2016,non-target species,fishes,5,3,0
+2016,non-target species,invertebrates,7,0,0
